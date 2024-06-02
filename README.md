@@ -15,3 +15,5 @@ npm run serve
 - **Arrow-key navigation**: users can use the arrow keys to navigate through the lane.
 - **button-navigation**: users can use the next and prev button for the same.
 - **scroll through the lane**: Users can navigate the lane using the scroll functionality also.
+## Assumption
+We had to build and customise single lane
