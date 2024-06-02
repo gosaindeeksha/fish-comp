@@ -1,2 +1,24 @@
-# fish-comp
-This project implements a visually appealing and accessible swim lane component with title cards using Vue.js
+# fishcomp
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
